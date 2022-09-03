@@ -13,7 +13,6 @@
       <major>5</major>
     </revision>
     <display-name>AndroidDebuggableTestImage</display-name>
-   <dependencies ⁄>
     <channelRef ref="channel-0"⁄>
     <archives>
       <archive>        <!-- Built on: Thu Feb 21 12:04:09 2019. -->
